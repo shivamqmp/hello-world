@@ -1,2 +1,3 @@
 # hello-world
-First repository
+First repository.
+Changing some texts in this repository.
